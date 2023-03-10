@@ -1,0 +1,117 @@
+main{
+    width: 1365px;
+}
+
+.anh{
+    margin-left: 210px;
+    margin-right: 210px;
+}
+
+.anhbia{
+    
+    height: 350px;
+    width: 940px;
+}
+
+.tung{
+    display: flex;
+}
+
+.anhtoi{
+    width: 170px;
+    height: 170px;
+    margin-top: -30px;
+    margin-left: 30px;
+    border-radius: 50%;
+    padding: 2px;
+    background-color: white;
+}
+
+.tung__name{
+    margin-top: 40px;
+    margin-left: 20px;
+}
+
+/* .gioithieu__list{
+    margin-top: 20px;
+    display: flex;
+    list-style-type: none;
+}
+
+a{
+    color: black;
+    
+}
+
+li{
+    font-size: large;
+    font-weight: 500;
+    margin-left: 30px;
+}
+
+a:hover{
+    color: blue;
+}
+
+.gt__list-drd{
+    position: relative;
+}
+
+.gt__list-drd::after{
+
+} */
+
+.cach{
+    margin-left: 20PX;
+}
+
+.cach:hover{
+    color: rgb(91, 91, 235);
+}
+
+
+
+/* PHAN THAN */
+
+.than{
+    margin-top: 10px;
+    background-color: rgb(218, 215, 213);
+    height: 700px;
+    width: 100%;
+}
+
+.than0{
+    height: 20px;
+}
+
+.than1{
+    height: 600px;
+    padding-top: 20px;
+    /* margin-top: 50px; */
+    margin-left: 230px;
+    margin-right: 230px;
+    background-color: white;
+    border-radius: 20px;
+}
+
+.than__gt{
+    margin-left: 10px;
+    font-weight: bolder;
+}
+
+.than__tieusu{
+    text-align: center;
+    font-size: larger;
+}
+
+.bi__to{
+    font-size: x-large;
+    margin-right: 20px;
+    margin-left: 10px;
+}
+
+.than1__fill{
+    text-decoration: none;
+    color: black;
+    font-weight: 600;
+}
