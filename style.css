@@ -554,9 +554,9 @@ marquee{
   z-index: 1000000000000;
   top: 100px;
   color: rgb(255, 255, 255);
-  animation: textContent 2s forwards;
+  animation: textContent 2.5s forwards;
   opacity: 0;
-  animation-delay: 2.5s;
+  animation-delay: 3s;
   user-select: none;
 }
 @keyframes textContent{
